@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Quicksand:wght@300..700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Quicksand:wght@300..700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+header nav ul {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 26px 0px;
+    gap: 30px;
+    list-style: none;
+    font-family: "Oswald", sans-serif;
+}
+
+header nav ul li h1 {
+    color: white;
+    padding: 0px 120px 0px 0px;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    background-color: rgb(228, 228, 228);
+    height: 100%;
+    width: 50%;
+    margin: 18px 0px;
+    border-radius: 10px;
+    padding: 40px 30px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+}
+
+.container p {
+    padding: 25px 0px;
+}
+
+.container button {
+    background-color: rgb(228, 228, 228);
+    padding: 9px 26px;
+    color: black;
+    border-radius: 5px;
+    border: 2px solid gray;
+}
+
+.container button:hover{
+    background-color: blue;
+    color: white;
+}
+
+#clock {
+    font-size: 40px;
+    color: black;
+    margin: 10px 0;
+} 
+
+#world-clock {
+    margin-top: 20px;
+    padding: 15px;
+    color: black;
+    border-radius: 8px;
+     transition: max-height 0.5s ease-in-out, padding 0.5s ease-in-out;
+}
