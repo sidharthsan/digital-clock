@@ -29,8 +29,7 @@ Includes **world time support** (London & Canada).
 ---
 
 ## 🎮 Demo
-👉 (If using GitHub Pages, put your link here)  
-`https://sidharthsan.github.io/digital-clock/`
+👉 https://sidharthsan.github.io/digital-clock/
 
 ---
 
