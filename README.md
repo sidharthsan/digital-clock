@@ -34,6 +34,5 @@ Includes **world time support** (London & Canada).
 ---
 
 
-👨‍💻 Author
-Sidharth S
-GitHub: @sidharthsan
+## 👨‍💻 Author
+- GitHub: @sidharthsan
